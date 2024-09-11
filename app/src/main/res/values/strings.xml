@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SignInPage</string>
+    <string name="register_text"><![CDATA[If you don\\\'t have an account, <font color=\\\'#4a60e9\\\'>Register here!</font>]]></string>
 </resources>
